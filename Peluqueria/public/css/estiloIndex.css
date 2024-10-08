@@ -1,0 +1,46 @@
+.header{
+    background-color: black;
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+    
+    
+}
+
+h1{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+
+.navegacionClientes{
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+body{
+    background-color: gray ;
+    
+}
+
+button{
+    background-color: aquamarine;
+    margin-left: 5px;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+input{
+    margin-left: 5px;
+}
+
+.p{
+    margin-left: 5px;
+    color: red;
+}
